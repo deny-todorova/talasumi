@@ -1,0 +1,49 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.wrapper {
+  width:100%;
+}
+
+.anim {
+  width:45%;
+  float:left;
+}
+
+.content {
+  width:45%;
+  float:left;
+  color:#FFF;
+  margin:80px 20px 0 20px;
+}
+
+.anim {
+  width:45%;
+  float:right;
+}
+
+.content {
+  width:45%;
+  float:right;
+  color:#FFF;
+  margin:80px 20px 0 20px;
+}
+
+.center-img {
+  margin: 0 auto;
+}
+
+.center-txt {
+  width:80%;
+  margin: auto;
+}
+
+#wrap01 {
+  background-color:#1d050b;
+}
+
+#wrap02 {
+  background-color:#FF0;
+}

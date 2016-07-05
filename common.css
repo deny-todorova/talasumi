@@ -1,0 +1,22 @@
+body {
+  font-family: Marta, "Open Sans", Verdana, sans-serif;
+  line-height: 1.5em;
+}
+
+h1 {
+  font-size: 64px;
+  text-transform: uppercase;
+  text-align: center;
+  font-style: bold;
+}
+
+h3 {
+  font-size: 26px;
+  text-transform: uppercase;
+  text-align: center;
+  font-style: normal;
+}
+
+p {
+  font-size: 14px;
+}

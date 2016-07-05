@@ -1,0 +1,53 @@
+body {
+  background-color:#282B39;
+  padding: 0;
+  margin: 0;
+  color: #FFF;
+}
+
+.wrapper-main {
+  padding-left: auto;
+  padding-right: auto;
+}
+
+.header {
+  background-image: url("header_bg.png");
+  /*background-repeat: repeat-x;*/
+  /*background-color: #CE9427;*/
+  border-image: url("divider_big02.png");
+  padding: 100px 0;
+  margin-bottom: 10px;
+}
+
+.divider {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.gallery {
+  width: 100%;
+}
+
+.gallery-item {
+  float: left;
+  width: 20%;
+  background-color: #282B39;
+}
+
+.gallery-item:hover {
+  background-color:red; text-decoration:none;
+}
+
+.gallery-item-01:hover {
+  background-color: #1d050b;
+}
+
+.description {
+  width: 70%;
+  margin: 20px auto 0 auto;
+  text-align: center;
+}
+
+#04_zmei {
+  background-color: #000;
+}

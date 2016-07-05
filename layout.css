@@ -1,0 +1,51 @@
+h1, p {
+  color: #FFF;
+}
+
+.left-col {
+  float: left;
+}
+
+.right-col {
+  float: right;
+}
+
+.txt {
+  padding: 5%;
+  float: left;
+  max-width: 40%;
+}
+
+.wrapper {
+  position: relative;
+  background-color: #000;
+  margin: 0;
+}
+
+.wrapper-2 {
+  position: relative;
+  background-color: #a70f18;
+  margin: -30px 0 0 0;
+}
+
+body {
+  padding: 0;
+  margin: 0 auto;
+  width: 100%;
+  background-color: #333;
+}
+
+h6 {
+  clear: both;
+  visibility: hidden;
+}
+
+.inner {
+  background-color: none;
+  width: 80%;
+  margin: 0 auto;
+}
+
+img {
+  width: 50%;
+}
