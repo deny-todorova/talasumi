@@ -246,6 +246,7 @@ body {
   width: 80%;
   margin: 0 auto;
   min-height: 700px;
+  max-width: 1200px;
 }
 
 img {
@@ -365,6 +366,18 @@ img {
   margin: -30px 0 0 0;
 }
 
+    .wrapper_10 h1 {
+      font-size: 54px;
+    }
+
+    .wrapper_22 h1 {
+    font-size: 54px;
+    }
+
+    .wrapper_24 h1 {
+    font-size: 54px;
+    }
+
 @media screen and (max-width: 800px) {
     .left-col {
     float: left;    
@@ -396,17 +409,7 @@ img {
     padding: 0 auto;
     }
 
-    .wrapper_10 h1 {
-      font-size: 54px;
-    }
 
-    .wrapper_22 h1 {
-    font-size: 54px;
-    }
-
-    .wrapper_24 h1 {
-    font-size: 54px;
-    }
 
     .gallery {
       display: none;
@@ -414,5 +417,9 @@ img {
 
     .nav-placeholder {
       display: none;
+    }
+
+    .inner {
+      max-width: 50%;
     }
 
